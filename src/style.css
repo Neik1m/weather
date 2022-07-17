@@ -1,0 +1,174 @@
+h1 {
+  padding-left: 650px;
+  padding-top: 150px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 75px;
+  color: tomato;
+}
+.container {
+  font-size: 25px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: chocolate;
+}
+img {
+  height: 80px;
+  width: 80px;
+  display: block;
+  margin-left: 450px;
+  margin-top: 30px;
+}
+p {
+  margin-left: 600px;
+  margin-top: -60px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 40px;
+}
+.highlow {
+  margin-left: 800px;
+  margin-top: -66px;
+  font-size: 30px;
+  color: crimson;
+}
+.rain {
+  margin-left: 1220px;
+  margin-top: -62px;
+  font-size: 30px;
+  color: teal;
+}
+.col-2 {
+  margin-top: 25px;
+  margin-left: -20px;
+}
+.rainsym1 {
+  display: block;
+  margin-left: 448px;
+  margin-top: 20px;
+  height: 60px;
+  width: 60px;
+}
+.rainsym2 {
+  display: block;
+  margin-left: 653px;
+  margin-top: -59px;
+  height: 60px;
+  width: 60px;
+}
+.rainsym3 {
+  display: block;
+  margin-left: 850px;
+  margin-top: -59px;
+  height: 60px;
+  width: 60px;
+}
+.cloud1 {
+  display: block;
+  margin-left: 1060px;
+  margin-top: -63px;
+  height: 60px;
+  width: 60px;
+}
+.cloud2 {
+  display: block;
+  margin-left: 1250px;
+  margin-top: -61px;
+  height: 60px;
+  width: 60px;
+}
+.cloud3 {
+  display: block;
+  margin-left: 1450px;
+  margin-top: -63px;
+  height: 60px;
+  width: 60px;
+}
+.mon {
+  margin-left: 400px;
+  margin-top: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.tues {
+  margin-left: 400px;
+  margin-top: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.wed {
+  margin-left: 400px;
+  margin-top: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.thurs {
+  margin-left: 400px;
+  margin-top: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.fri {
+  margin-left: 400px;
+  margin-top: 45px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.sat {
+  margin-left: 400px;
+  margin-top: 45px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.sun {
+  margin-left: 400px;
+  margin-top: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.partcloud {
+  width: 60px;
+  height: 40px;
+  margin-top: -50px;
+  margin-left: 500px;
+}
+.partcloud1 {
+  width: 60px;
+  height: 40px;
+  margin-top: -45px;
+  margin-left: 500px;
+}
+.partcloud2 {
+  width: 60px;
+  height: 40px;
+  margin-top: -45px;
+  margin-left: 530px;
+}
+.rainsym4 {
+  width: 50px;
+  height: 40px;
+  margin-top: -38px;
+  margin-left: 510px;
+}
+.rainsym5 {
+  width: 50px;
+  height: 40px;
+  margin-top: -38px;
+  margin-left: 480px;
+}
+.partcloud3 {
+  width: 60px;
+  height: 40px;
+  margin-top: -45px;
+  margin-left: 505px;
+}
+.partcloud4 {
+  width: 60px;
+  height: 40px;
+  margin-top: -45px;
+  margin-left: 490px;
+}
+form {
+  margin-left: 1000px;
+  margin-top: 50px;
+}
+.frmtxt {
+  margin-left: 1100px;
+  margin-top: -400px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 50px;
+}
+button {
+  margin-left: 1260px;
+  margin-top: -58px;
+}
